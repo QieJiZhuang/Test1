@@ -1,0 +1,8 @@
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\WindowsService_HellwWord\bin\Debug\WindowsService_HellwWord.exe.config
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\WindowsService_HellwWord\bin\Debug\WindowsService_HellwWord.exe
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\WindowsService_HellwWord\bin\Debug\WindowsService_HellwWord.pdb
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\WindowsService_HellwWord\obj\Debug\WindowsService_HellwWord.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\WindowsService_HellwWord\obj\Debug\WindowsService_HellwWord.ProjectInstaller.resources
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\WindowsService_HellwWord\obj\Debug\WindowsService_HellwWord.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\WindowsService_HellwWord\obj\Debug\WindowsService_HellwWord.exe
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\WindowsService_HellwWord\obj\Debug\WindowsService_HellwWord.pdb

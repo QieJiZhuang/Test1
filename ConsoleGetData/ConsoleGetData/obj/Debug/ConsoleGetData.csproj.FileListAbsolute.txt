@@ -1,0 +1,25 @@
+D:\Projects_vs2015\Data\ConsoleGetData\ConsoleGetData\bin\Debug\ConsoleGetData.exe.config
+D:\Projects_vs2015\Data\ConsoleGetData\ConsoleGetData\bin\Debug\ConsoleGetData.exe
+D:\Projects_vs2015\Data\ConsoleGetData\ConsoleGetData\bin\Debug\ConsoleGetData.pdb
+D:\Projects_vs2015\Data\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.csprojResolveAssemblyReference.cache
+D:\Projects_vs2015\Data\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.exe
+D:\Projects_vs2015\Data\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.pdb
+D:\Projects_vs2015\Data\ConsoleGetData\ConsoleGetData\bin\Debug\Newtonsoft.Json.dll
+D:\Projects_vs2015\Data\ConsoleGetData\ConsoleGetData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\13522\Desktop\1\ConsoleGetData\ConsoleGetData\bin\Debug\ConsoleGetData.exe.config
+C:\Users\13522\Desktop\1\ConsoleGetData\ConsoleGetData\bin\Debug\ConsoleGetData.exe
+C:\Users\13522\Desktop\1\ConsoleGetData\ConsoleGetData\bin\Debug\ConsoleGetData.pdb
+C:\Users\13522\Desktop\1\ConsoleGetData\ConsoleGetData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\13522\Desktop\1\ConsoleGetData\ConsoleGetData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\13522\Desktop\1\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.csprojAssemblyReference.cache
+C:\Users\13522\Desktop\1\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.csproj.CopyComplete
+C:\Users\13522\Desktop\1\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.exe
+C:\Users\13522\Desktop\1\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.pdb
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\ConsoleGetData\bin\Debug\ConsoleGetData.exe.config
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.exe
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.pdb
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\ConsoleGetData\bin\Debug\ConsoleGetData.exe
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\ConsoleGetData\bin\Debug\ConsoleGetData.pdb
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\ConsoleGetData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\ConsoleGetData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.csprojResolveAssemblyReference.cache
