@@ -23,3 +23,13 @@ C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-
 C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\ConsoleGetData\bin\Debug\Newtonsoft.Json.dll
 C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\ConsoleGetData\bin\Debug\Newtonsoft.Json.xml
 C:\Users\lenovo\Documents\WeChat Files\wxid_8kj9wuqyzrp22\FileStorage\File\2020-03\1\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.csprojResolveAssemblyReference.cache
+E:\GitHub\Test1\ConsoleGetData\ConsoleGetData\bin\Debug\ConsoleGetData.exe.config
+E:\GitHub\Test1\ConsoleGetData\ConsoleGetData\bin\Debug\ConsoleGetData.exe
+E:\GitHub\Test1\ConsoleGetData\ConsoleGetData\bin\Debug\ConsoleGetData.pdb
+E:\GitHub\Test1\ConsoleGetData\ConsoleGetData\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\Test1\ConsoleGetData\ConsoleGetData\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\Test1\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.csprojAssemblyReference.cache
+E:\GitHub\Test1\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.csproj.CoreCompileInputs.cache
+E:\GitHub\Test1\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.csproj.CopyComplete
+E:\GitHub\Test1\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.exe
+E:\GitHub\Test1\ConsoleGetData\ConsoleGetData\obj\Debug\ConsoleGetData.pdb
