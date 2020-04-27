@@ -1,0 +1,13 @@
+E:\GitHub\Test1\ConsoleGetData\Test\bin\Debug\netcoreapp3.1\Test.exe
+E:\GitHub\Test1\ConsoleGetData\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+E:\GitHub\Test1\ConsoleGetData\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+E:\GitHub\Test1\ConsoleGetData\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+E:\GitHub\Test1\ConsoleGetData\Test\bin\Debug\netcoreapp3.1\Test.dll
+E:\GitHub\Test1\ConsoleGetData\Test\bin\Debug\netcoreapp3.1\Test.pdb
+E:\GitHub\Test1\ConsoleGetData\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+E:\GitHub\Test1\ConsoleGetData\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+E:\GitHub\Test1\ConsoleGetData\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+E:\GitHub\Test1\ConsoleGetData\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+E:\GitHub\Test1\ConsoleGetData\Test\obj\Debug\netcoreapp3.1\Test.dll
+E:\GitHub\Test1\ConsoleGetData\Test\obj\Debug\netcoreapp3.1\Test.pdb
+E:\GitHub\Test1\ConsoleGetData\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
