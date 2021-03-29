@@ -13,7 +13,7 @@ export default {
     var engine = new BABYLON.Engine(canvas, true); // 初始化 BABYLON 3D engine
 
     /******* Add the create scene function ******/
-    var createScene = function () {
+    var createScene = function () {  
       // 创建一个场景scene
       var scene = new BABYLON.Scene(engine);
 
